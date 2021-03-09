@@ -9,7 +9,7 @@ def sort_list(lista):
 
         count = 0
 
-        # ALtera a ordem dos elementos da lista
+        # Altera a ordem dos elementos da lista
         for index in range(len(s_lista)-1):
             if s_lista[index] > s_lista[index+1]:
                 s_lista[index], s_lista[index +
